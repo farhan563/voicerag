@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+qdrant-client[fastembed]>=1.10
+python-dotenv
+pypdf
+python-docx

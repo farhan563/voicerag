@@ -1,0 +1,16 @@
+[
+  {"question": "How many attention heads does the base Transformer use?", "source": "attention.pdf", "snippet": "h = 8 parallel attention layers"},
+  {"question": "Which optimizer was used to train the Transformer?", "source": "attention.pdf", "snippet": "Adam optimizer"},
+  {"question": "How many steps were the base Transformer models trained for?", "source": "attention.pdf", "snippet": "100,000 steps"},
+  {"question": "Which dataset was used for English-German translation?", "source": "attention.pdf", "snippet": "WMT 2014 English-German"},
+  {"question": "How does the Transformer encode the position of words in a sequence?", "source": "attention.pdf", "snippet": "sine and cosine functions"},
+  {"question": "What are the two pre-training tasks of BERT?", "source": "bert.pdf", "snippet": "next sentence prediction"},
+  {"question": "How many parameters does BERT large have?", "source": "bert.pdf", "snippet": "340M"},
+  {"question": "What is the masked language model objective?", "source": "bert.pdf", "snippet": "masked language model"},
+  {"question": "How many parameters does GPT-3 have?", "source": "gpt3.pdf", "snippet": "175 billion"},
+  {"question": "What is in-context learning?", "source": "gpt3.pdf", "snippet": "in-context learning"},
+  {"question": "What is the largest Llama 2 model size?", "source": "llama2.pdf", "snippet": "70B"},
+  {"question": "How is Llama 2-Chat fine-tuned with human feedback?", "source": "llama2.pdf", "snippet": "RLHF"},
+  {"question": "What are the two RAG formulations?", "source": "rag.pdf", "snippet": "RAG-Token"},
+  {"question": "Which model is the generator in RAG?", "source": "rag.pdf", "snippet": "BART"}
+]
